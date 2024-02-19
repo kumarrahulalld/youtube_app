@@ -13,5 +13,10 @@
     "youtube"
   ],
   "author": "Rahul.Mishra",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.3",
+    "nodemon": "^3.0.3"
+  }
 }
