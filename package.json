@@ -1,0 +1,17 @@
+{
+  "name": "youtube-app",
+  "version": "1.0.0",
+  "description": "A video sharing application like youtube for JS learning.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "js",
+    "learning",
+    "node",
+    "youtube"
+  ],
+  "author": "Rahul.Mishra",
+  "license": "ISC"
+}
